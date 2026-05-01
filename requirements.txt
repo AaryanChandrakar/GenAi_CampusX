@@ -29,3 +29,12 @@ torch
 
 # UI
 streamlit
+
+# graph visualization of chain
+grandalf
+
+# PDF reader
+pypdf
+
+# Web Scraper
+bs4
